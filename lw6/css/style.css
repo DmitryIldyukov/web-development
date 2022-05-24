@@ -1,0 +1,258 @@
+.header
+{
+  display: flex;
+  font-family: Montserrat;
+  margin-left: 111px;
+  margin-top: 32px;
+}
+
+.header__menu
+{
+  margin-left: 662px;
+  margin-top: 16px;
+}
+
+.header__links
+{
+  margin-right: 84px;
+  text-decoration: none;
+  width: 167px;
+  height: 20px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #000000;
+  padding-bottom: 20px;
+}
+
+.header__logo
+{
+  max-width: 203px;
+}
+
+.header__signup
+{
+  margin-left: 10px;
+  width: 247px;
+  height: 55px;
+  padding: 18px 40px;
+  background: #000000;
+  font: normal 600 16px/16px 'Montserrat';
+  border-radius: 4.6px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.main__logo
+{
+  margin-top: 45px;
+  height: 636px;
+  width: 761px;
+}
+
+.main
+{
+  display: flex;
+  font-family: Montserrat;
+  color: #FFFFFF;
+  padding-left: 111px;
+  padding-top: 33px;
+}
+
+.main__box
+{
+  margin: 195px 30px 0 58px;
+}
+
+.main__box_title
+{
+  width: 745px;
+  font: normal 600 100px/1.2 'Montserrat';
+  color: #000000;
+  margin: 0 0 -3px 0;
+}
+
+.main__box_text
+{
+  width: 545px;
+  font: normal 400 26px/1.2 'Roboto Condensed';
+  color: #000000;
+  opacity: 0.7;
+  padding-bottom: 37px;
+}
+
+.pink
+{
+  color: #EE58B6;
+}
+
+.main__signup
+{
+  padding: 19px 82.5px;
+  width: 332px;
+  height: 55px;
+  background: #000000;
+  font: normal 600 16px/16px 'Montserrat';
+  border-radius: 4.6px;
+  text-align: center;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.box
+{
+  display: flex;
+  margin-top: 65px;
+  background: #000000;
+  padding: 111px 357px 142px;
+}
+
+.box__part
+{
+  width: 337px;
+  height: 132px;
+  padding-right: 88.5px;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.box__text
+{
+  margin: 17px 0 0 0;
+  font: normal 400 22px/1.2 'Roboto Condensed';
+  color: #FFFFFF;
+}
+
+.information
+{
+  font-family: Montserrat;
+  padding-left: 100px;
+  padding-top: 33px;
+}
+
+.information__notime
+{
+  display: flex;
+}
+
+.information__notime_img
+{
+  margin: 36px 51px 0 258px;
+  height: 478px;
+  width: 538px;
+}
+
+.information__notime_info
+{
+  margin-top: 265px;
+}
+
+.information__notime_info_title
+{
+  font: normal 500 48px/1.2 'Montserrat';
+  color: #000000;
+  margin: 0 0 28px 0;
+}
+
+.information__notime_info_text
+{
+  width: 574px;
+  height: 48px;
+  line-height: 135%;
+  color: #000000;
+  font-family: Roboto Condensed;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.information__deadline
+{
+  display: flex;
+}
+
+.information__deadline_img
+{
+  margin-top: 78px;
+  width: 377px;
+  height: 622px;
+}
+
+.information__deadline_info
+{
+  margin: 330px 7px 0 285px;
+}
+
+.information__deadline_info_title
+{
+  font: normal 500 48px/1.2 'Montserrat';
+  color: #000000;
+  margin: 0 264px 28px 0;
+}
+
+.information__deadline_info_text
+{
+  width: 572px;
+  height: 48px;
+  line-height: 135%;
+  color: #000000;
+  font-family: Roboto Condensed;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.opportunities
+{
+  padding-top: 135px;
+  padding-left: 385px;
+}
+
+.opportunities__part-one
+{
+  display: flex;
+}
+
+.opportunities__part-two
+{
+  display: flex;
+}
+
+.opportunities__title
+{
+  font: normal 500 48px/1.2 'Montserrat';
+  color: #000000;
+  margin: 0 0 28px 290px;
+  padding-bottom: 30px;
+}
+
+.opportunities__part_text
+{
+  font-family: Roboto Condensed;
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.opportunities__part_box
+{
+  width: 319px;
+  height: 158px;
+  background: #000000;
+  border-radius: 7.35px;
+  padding: 32.36px 0 0 39.35px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.footer
+{
+  margin-top: 260px;
+  width: 1920px;
+  height: 108px;
+  background: #000000;
+}
+
+.footer__logo
+{
+  padding-top: 30px;
+  padding-left: 870px;
+  max-width: 203px;
+}
